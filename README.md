@@ -57,5 +57,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any questions or inquiries, please contact me at [d.rastogi1@universityofgalway.ie].
 
 ---
-
-This README provides a high-level overview of your project without disclosing all the specifics of your approach. You can customize it further as needed.
