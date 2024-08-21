@@ -34,7 +34,7 @@ To run this project locally:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/final-thesis.git
+    git clone https://github.com/dhruvrastogi18/final-thesis.git
     ```
 
 2. Install the required dependencies:
